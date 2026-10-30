@@ -1,10 +1,9 @@
-
 # Python virtual environments
 .venv/
 venv/
 env/
 
-# Python cache files
+# Python cache
 __pycache__/
 *.py[cod]
 
@@ -14,5 +13,5 @@ __pycache__/
 # PyCharm settings
 .idea/
 
-# Environment variables and secrets
+# Environment files
 .env
