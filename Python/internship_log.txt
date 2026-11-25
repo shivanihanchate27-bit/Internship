@@ -1,0 +1,5 @@
+Day 4: Python File Handling
+Learned reading and writing files.
+Practiced exception handling.
+This is append example.
+This is append example.
